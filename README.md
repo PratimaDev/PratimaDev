@@ -24,7 +24,7 @@ Building scalable applications with Flutter, Node.js, MongoDB and AI.
 - Solving DSA regularly for placements
 - Goal: Software Engineer + Flutter Developer
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -68,7 +68,7 @@ Building scalable applications with Flutter, Node.js, MongoDB and AI.
 
 
 
-## 📚 Core Computer Science
+## Core Computer Science
 
 - Object Oriented Programming (OOP)
 - Data Structures & Algorithms (DSA)
@@ -76,7 +76,7 @@ Building scalable applications with Flutter, Node.js, MongoDB and AI.
 - Operating Systems (OS)
 - Computer Networks (CN)
 
-## 🌟 Featured Projects
+## Featured Projects
 
 AI-powered mock interview platform
 
@@ -92,12 +92,12 @@ Flutter • Node.js • MongoDB • Gemini
 
 ## Currently Working On
 
-- 🤖 AI Interview Simulator
-- 📚 Advanced DSA
-- ☁️ AWS Cloud Fundamentals
-- 🔥 Placement Preparation 2027
+- AI Interview Simulator
+- Advanced DSA
+- AWS Cloud Fundamentals
+- Placement Preparation 2027
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratimaDev&show_icons=true" />
@@ -105,7 +105,7 @@ Flutter • Node.js • MongoDB • Gemini
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pratimaDev" />
 </p>
 
-## 💡 Coding Profiles
+## Coding Profiles
 
 <p align="left">
 <a href="https://leetcode.com/u/pratimadev/">
