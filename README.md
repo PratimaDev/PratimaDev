@@ -62,6 +62,11 @@ Building scalable applications with Flutter, Node.js, MongoDB and AI.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
+### ☁️ Cloud & Deployment 
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
 ## 📚 Core Computer Science
 
 - Object Oriented Programming (OOP)
@@ -69,10 +74,6 @@ Building scalable applications with Flutter, Node.js, MongoDB and AI.
 - Database Management Systems (DBMS)
 - Operating Systems (OS)
 - Computer Networks (CN)
-
-### ☁️ Cloud & Deployment 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🌟 Featured Projects
 
